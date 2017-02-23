@@ -5,4 +5,8 @@ hdfhfdhfd
 jj
 fd,lfd
 第一次
+<<<<<<< HEAD
 分支試驗
+=======
+第二次分支teacher
+>>>>>>> teacher
